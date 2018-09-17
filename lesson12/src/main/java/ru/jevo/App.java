@@ -34,8 +34,5 @@ public class App {
         } catch (NumberFormatException e) {
             System.out.println("Размерность массива должна быть задана в числах");
         }
-
-
-        //System.out.println( (args[0]) );
     }
 }
